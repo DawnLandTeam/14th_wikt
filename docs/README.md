@@ -3,7 +3,7 @@ ps:点击整合包名跳转至下载页面
 
 |                     整合包名                     |       整合包安装包        | 服务器端口 |  开始时间  |  结束时间  |                服务器状态                 |
 | :----------------------------------------------: | :-----------------------: | :--------: | :--------: | :--------: | :---------------------------------------: |
-| [Chroma Sky 2](https://cloud.dawnland.cn/s/87Tb) |  Chroma+Sky+2-1.0.4.zip   |   25571    | 2022-04-26 |    N/A     | <font color=#008000 size=4 >运行中</font> |
+| [Chroma Sky 2](https://cloud.dawnland.cn/s/eysg) |  Chroma+Sky+2-1.0.4.zip   |   25571    | 2022-04-26 |    N/A     | <font color=#008000 size=4 >运行中</font> |
 |            Another Quality Modpack 3             |       AQM3-1.8.zip        |   25567    | 2022-04-20 |    N/A     | <font color=#008000 size=4 >运行中</font> |
 |                   Benchmark II                   |   BenchmarkII-1.0.7.zip   |   25566    | 2022-03-29 |    N/A     | <font color=#008000 size=4 >运行中</font> |
 |                  All the Mods 7                  | All+the+Mods+7-0.2.45.zip |   25565    | 2022-03-23 | 2022-03-29 | <font color=#FF3030 size=4 >已结束</font> |
