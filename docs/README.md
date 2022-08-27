@@ -5,6 +5,7 @@ ps:点击整合包名跳转至下载页面
 
 |                     整合包名                     |             整合包安装包              | 服务器端口 |  开始时间  |  结束时间  |                服务器状态                 |
 | :----------------------------------------------: | :-----------------------------------: | :--------: | :--------: | :--------: | :---------------------------------------: |
+|  [Last Days of Humanity](https://cloud.dawnland.cn/s/bZCK)   | Last+Days+of+Humanity-0.4.5-hf1.zip |   25574    | 2022-08-27 |    N/A     | <font color=#008000 size=4 >运行中</font> |
 |  [Skyopolis 5](https://cloud.dawnland.cn/s/N4fR)   | Skyopolis 5 (解压里面的文件夹和启动器放在一起).zip |   25573    | 2022-07-29 |    N/A     | <font color=#008000 size=4 >运行中</font> |
 |    [NTC 2](https://cloud.dawnland.cn/s/EzcK)     | Not+Too+Complicated2-1.4.4Release.zip |   25572    | 2022-05-13 | 2022-07-28 | <font color=#FF3030 size=4 >已结束</font> |
 | [Chroma Sky 2](https://cloud.dawnland.cn/s/jdhj) |        Chroma+Sky+2-1.0.5.zip         |   25571    | 2022-04-26 | 2022-07-28 | <font color=#FF3030 size=4 >已结束</font> |
