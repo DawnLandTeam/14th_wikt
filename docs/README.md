@@ -6,7 +6,7 @@ ps:点击整合包名跳转至下载页面
 
 |                            整合包名                             |                    整合包安装包                    | 服务器端口 |  开始时间  |  结束时间  |                服务器状态                 | 结束原因 |
 | :-------------------------------------------------------------: | :------------------------------------------------: | :--------: | :--------: | :--------: | :---------------------------------------: | :------: |
-| [All the Mods 7 - To the Sky](https://cloud.dawnland.cn/s/Vrtj) |       All+the+Mods+7+-+To+the+Sky-1.0.7.zip        |   25576    | 2022-09-03 |            | <font color=#008000 size=4 >运行中</font> |          |
+| [All the Mods 7 - To the Sky](https://cloud.dawnland.cn/s/Vrtj) |       All+the+Mods+7+-+To+the+Sky-1.0.8.zip        |   25576    | 2022-09-03 |            | <font color=#008000 size=4 >运行中</font> |          |
 |          [Deathdusk](https://cloud.dawnland.cn/s/YJi4)          |            Deathdusk+(Client)-2.1.5.zip            |   25575    | 2022-09-01 | 2022-09-03 | <font color=#FF3030 size=4 >已结束</font> | 进人即崩 |
 |    [Last Days of Humanity](https://cloud.dawnland.cn/s/bZCK)    |        Last+Days+of+Humanity-0.4.5-hf1.zip         |   25574    | 2022-09-01 | 2022-09-01 | <font color=#FF3030 size=4 >已结束</font> | 极致受苦 |
 |         [Skyopolis 5](https://cloud.dawnland.cn/s/N4fR)         | Skyopolis 5 (解压里面的文件夹和启动器放在一起).zip |   25573    | 2022-07-29 | 2022-09-01 | <font color=#FF3030 size=4 >已结束</font> | 无人玩耍 |
