@@ -54,6 +54,7 @@ ps:点击整合包名跳转至下载页面
 
 |                       整合包名                        |     整合包安装包     |           服务器地址           |  开始时间  |  结束时间  |                服务器状态                 | 结束原因 |
 | :---------------------------------------------------: | :------------------: | :----------------------------: | :--------: | :--------: | :---------------------------------------: | :------: |
+| [FTB Skies](https://alist.dawnland.cn/d/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98Open/FTB%20Skies.zip) | FTB Skies.zip | sh-1.s.dawnland.cn:32017 | 2023-05-04 |  | <font color=#008000 size=4 >运行中</font> |  |
 | [FTB StoneBlock 3](https://cloud.dawnland.cn/s/XG7uG) | FTB StoneBlock 3.zip | stoneblock3.online.dawnland.cn | 2022-11-09 | 2023-01-17 | <font color=#FF3030 size=4 >已结束</font> | 无人玩耍 |
 
 ---
